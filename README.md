@@ -1,11 +1,12 @@
 # everyday
 24/02
+
   Đã làm gì:
     - Tìm template
     - Làm backlog
     - Hoàn thiện CV
-  Đang làm gì:
-    - Mindmap module 2
+  Khó khăn:
+    -Tìm template
   Ngày mai sẽ làm gì:
     - Thiết kế database
     - Hoàn thành mindmap module 3
