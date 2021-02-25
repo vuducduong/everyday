@@ -20,5 +20,5 @@
  # Ngày mai sẽ làm gì:
      - Thiết kế database
      - Hoàn thành mindmap module 3
-     - 
+     - Ôn tập Mysql
 
