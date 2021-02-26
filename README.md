@@ -21,6 +21,7 @@
      - Thiết kế database
      - Hoàn thành mindmap module 3
      - Ôn tập Mysql
+  # 26/2
   # Đã làm gì :
   - tham gia hai buổi seminar
   - làm 52 câu sql trên w3s
