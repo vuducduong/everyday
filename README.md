@@ -21,4 +21,14 @@
      - Thiết kế database
      - Hoàn thành mindmap module 3
      - Ôn tập Mysql
+  # Đã làm gì :
+  - tham gia hai buổi seminar
+  - làm 52 câu sql trên w3s
+  - 31 câu sql trên codelear
+  - 9 câu sql trên codesinal
+  # Khó khăn
+  - đề trên codesinal khó hiểu dù dùng google dịch từng dòng
+  # Ngày mai làm gì
+  -làm nốt 60 câu sql trên codelearn
+  - làm thêm v
 
