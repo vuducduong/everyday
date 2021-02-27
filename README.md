@@ -31,5 +31,13 @@
   - đề trên codesinal khó hiểu dù dùng google dịch từng dòng
   # Ngày mai làm gì
   -làm nốt 60 câu sql trên codelearn
-  - làm thêm v
+  - làm thêm php
+  # 27/2
+  # đã làm gì :
+  - làm 44 câu sql trên codesignal
+  # khó khăn :
+  - nhiều hàm mới, join mới 
+  # ngày mai làm gì
+  - vẽ mindmap module 3
+  - tr
 
