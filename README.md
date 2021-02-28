@@ -48,5 +48,6 @@
   # ngày mai làm gì
   - làm hết mindmap module3
   - làm hết quizz module 3
-  - tr
+  - làm hết câu hỏi module 3.
+  
 
