@@ -39,5 +39,14 @@
   - nhiều hàm mới, join mới 
   # ngày mai làm gì
   - vẽ mindmap module 3
+  # 28/2
+  # đã làm gì :
+  - ôn lại kiến thức module 2
+  - đang làm mind map module 3
+  # khó khăn
+  - mât thời gian di chuyển ra Hà Nội + mệt
+  # ngày mai làm gì
+  - làm hết mindmap module3
+  - làm hết quizz module 3
   - tr
 
