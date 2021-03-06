@@ -49,5 +49,26 @@
   - làm hết mindmap module3
   - làm hết quizz module 3
   - làm hết câu hỏi module 3.
+  # 6/3
+  # Đã làm gì:
+  - Ôn lại vòng đời trong laravel
+  - tìm hiểu thư mục trong laravel
+  - cắt template admin dự án cá nhân
+  - hiển thị sản phẩm ở back end
+  - tìm hiểu về cách sắp xếp thời gian
+  # Khó khăn:
+  - Vẫn chưa hiểu rõ vòng đời trong laravel
+  - Thư mục khó nhớ, nhanh quên
+  - Copy template hỏng do file js và css trang web kia để dạng đường dẫn vào trang web
+  - Không biết nên học gì
+  # Cải tiến:
+  - Sắp xếp lại thời gian để tối đa hóa công việc làm được
+  # Ngày mai làm gì
+  - Nghiên cứu phần lưu ảnh
+  - hiển thị ảnh trên trang admin dự án cá nhân
+  - tìm hiểu kỹ hơn frameword laravel
+  - ôn tập php theo bộ câu hỏi
+  - Đi chơi cuối tuần.
+  
   
 
