@@ -69,6 +69,20 @@
   - tìm hiểu kỹ hơn frameword laravel
   - ôn tập php theo bộ câu hỏi
   - Đi chơi cuối tuần.
+  # 7/3
+  # Đã làm gì:
+  - Tìm hiểu kỹ frameword laravel
+  - ôn php
+  - đi chơi cuối tuần
+  # Khó khăn
+  - Mất tập trung khi học
+  - stress
+  # Cải tiến
+  - Tìm nơi bớt ồn ào
+  # Ngày mai làm gì
+  - Đi khám bệnh
+  - nghiên cứu lưu trữ bằng google drive
+  - làm tình năng thêm mới
   
   
 
